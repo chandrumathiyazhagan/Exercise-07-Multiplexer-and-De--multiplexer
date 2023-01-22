@@ -93,7 +93,7 @@ and(Y3,I,S0,S1);
 endmodule
 ```
 
-###RTL LOGIC:
+### RTL LOGIC:
 
 MULTIPLEXER:
 
@@ -103,7 +103,7 @@ DEMULTIPLEXER:
 
 ![image](https://user-images.githubusercontent.com/119393023/213918771-f91e0106-1a6e-4f71-a95b-5d8fd75ba53f.png)
 
-###TIMING DIGRAMS:
+### TIMING DIGRAMS:
 
 MULTIPLEXER:
 
@@ -113,7 +113,7 @@ DEMULTIPLEXER:
 
 ![image](https://user-images.githubusercontent.com/119393023/213918815-304668de-e5d5-4b73-8c5a-b2973d1fb9e1.png)
 
-###TRUTH TABLE:
+### TRUTH TABLE:
 
 MULTIPLEXER:
 
